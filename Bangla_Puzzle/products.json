@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name":"Chicken",
+        "price": 200,
+        "image": "image/chicken.png"
+    },
+    {
+        "id": 2,
+        "name":"Fajitas",
+        "price": 250,
+        "image": "image/fajita.png"
+    },
+    {
+        "id": 3,
+        "name":"Chicken Masala",
+        "price": 290,
+        "image": "image/masla.png"
+    }
+ 
+]
