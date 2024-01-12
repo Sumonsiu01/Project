@@ -1,0 +1,46 @@
+nav{
+
+    height: 30%;
+    width: 100%;
+    /*  background-color:rgb(77, 233, 77);*/
+    border-radius: 20px;
+    /* align-items: center; */
+}
+
+nav h1{
+
+    font-weight: 500;
+    padding: auto;
+    align-items: center;
+    padding: 50px 40px  20px 500px;
+}
+nav h4{
+
+    font-weight: 1000;
+    padding: auto;
+    align-items: center;
+    padding: 0px 40px  140px 535px;
+    font-style: italic;
+    text-decoration: underline;
+}
+body{
+    background-image:url(img/about1.jpg);
+}
+body p{
+
+    text-align: center;
+
+    padding-top: 90px;
+    font-weight: 1000;
+}
+body p:hover{
+    color: aliceblue;
+}
+nav button{
+
+    font-weight: 600;
+    font-size: 15px;
+    background-color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
